@@ -1,7 +1,7 @@
 # ZZZ Shop (Zenless Zone Zero E-Commerce Web) 🌟
 
-[![repo size](https://img.shields.io/github/repo-size/your-username/ZZZ_Shop?style=flat-square)](https://github.com/your-username/ZZZ_Shop)
-[![issues](https://img.shields.io/github/issues/your-username/ZZZ_Shop?style=flat-square)](https://github.com/your-username/ZZZ_Shop/issues)
+[![repo size](https://img.shields.io/github/repo-size/Zhukov2004/Indie-Game-Store-main?style=flat-square)](https://github.com/Zhukov2004/Indie-Game-Store-main)
+[![issues](https://img.shields.io/github/issues/Zhukov2004/Indie-Game-Store-main?style=flat-square)](https://github.com/Zhukov2004/Indie-Game-Store-main/issues)
 [![license](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](./LICENSE)
 
 **ZZZ Shop** là một ứng dụng Web Thương mại điện tử Full-stack được phát triển bằng **Java Servlet/JSP** và cơ sở dữ liệu **MySQL**, mô phỏng nền tảng cửa hàng trực tuyến chuyên cung cấp các vật phẩm, tài khoản, nạp game và phụ kiện độc quyền của tựa game hành động bom tấn **Zenless Zone Zero (ZZZ)**.
