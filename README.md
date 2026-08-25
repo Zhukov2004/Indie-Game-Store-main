@@ -107,8 +107,8 @@ ZZZ_Shop/
         ├── Product.java
         ├── Transaction.java
         └── User.java
-```text
 
+---
 
 ## ⚙️ Hướng dẫn Cài đặt & Chạy dự án trên NetBeans
 
