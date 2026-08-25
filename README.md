@@ -109,7 +109,6 @@ ZZZ_Shop/
         └── User.java
 ```text
 
----
 
 ## ⚙️ Hướng dẫn Cài đặt & Chạy dự án trên NetBeans
 
@@ -166,7 +165,5 @@ Mọi đóng góp, báo lỗi (issue) hoặc yêu cầu tính năng mới đều
 ## 📄 License
 
 Dự án được phân phối dưới [MIT License](https://www.google.com/search?q=./LICENSE).
-
-```
 
 ```
